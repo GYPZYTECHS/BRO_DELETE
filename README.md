@@ -27,7 +27,7 @@ pip3 install -r requirements.txt
 python3 bot.py
 ```
 ## DEPLOY TO KOYEB 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Joelkb/DQ-The-FIle-Donor&branch=koyeb&name=dqthefiledonor)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GYPZYTECHS/BRO_DELETE&branch=koyeb&name=dqthefiledonor)
 
 ### Credits
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
